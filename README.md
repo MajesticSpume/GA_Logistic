@@ -1,0 +1,2 @@
+# GA_Logistic
+这是一个利用Matalab设计关于物流网络选址的遗传算法
